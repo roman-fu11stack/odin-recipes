@@ -1,0 +1,35 @@
+.container {
+    background-color: bisque;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    padding: 40px;
+    margin: 0 auto;
+    color: blueviolet;
+}
+
+ul {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: inline-block;
+    text-align: left;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+ol {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 18px;
+    font-style: italic;
+}
